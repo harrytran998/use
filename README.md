@@ -33,13 +33,35 @@ The toys I used for my workflow! It's not really productive, but easy to use ðŸŒ
     - Refined Github
     - All devtool's language I use: React/Redux - Svelte - Solid - Vue/Nuxt
     - Muzli 2
+    
+## DevOps
+
+- [Orbstack - Run Docker and Linux on your Mac seamlessly and efficiently. Docker Desktop alternative that helps you work faster](https://orbstack.dev)
+- [ArgoCD - A declarative, GitOps continuous delivery tool for Kubernetes](https://argo-cd.readthedocs.io/en/stable)
+
+## MacOs Productive
+
+- Homerow ([link](https://homerow.app)) - Shortkey to action for MacOs
+- Raycast - Alternative Alfred - But free!
+- [Grid - Window Manager - The fast, easy way to organize windows](https://macgrid.app/)
+
+## Design & Social Media
+
+- Figma - Illustrations, Logos, Social Media Banners
+- OBS - Streaming & Recording
+- Davinci Resolve - Video Editing
+- Luminar Neo - AI help editing the picture
+
+
+## Management
+
+- Notion: My notes for all of things
+- Clickups: My projects management
 
 ## Utilities
 
-- Homerow ([link](https://homerow.app)) - Shortkey to action for MacOs
+
 - 1Password - Save password
-- Raycast - Alternative Alfred - But free!
-- Notion: My notes for all of things
-- Clickups: My projects management
 - ChatGPT: Ask anything relete to human being ðŸ¤”
+- All Free Icons: https://icones.js.org
   
