@@ -34,8 +34,8 @@ The toys I used for my workflow! It's not really productive, but easy to use ðŸŒ
     - All devtool's language I use: React/Redux - Svelte - Solid - Vue/Nuxt
     - Muzli 2
     
-## DevOps
-
+## Backend/DevOps
+- BeeKeeper Studio Utimate - Cross-platform SQL editor and database manager
 - [Orbstack - Run Docker and Linux on your Mac seamlessly and efficiently. Docker Desktop alternative that helps you work faster](https://orbstack.dev)
 - [ArgoCD - A declarative, GitOps continuous delivery tool for Kubernetes](https://argo-cd.readthedocs.io/en/stable)
 
